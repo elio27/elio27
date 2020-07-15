@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Elio27's shortcuts</title>
+<style> 
+
+body 
+{
+font-size:50pt;
+font-family: system-ui;
+}
+
+{
+            background: #FFFFFF;   
+            color: #000000
+}
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #333333;
+                color: #FFFFFF
+            }
+        }
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 45px 72px;
+    border: 2px solid #1c5cca;
+    border-radius: 18px;
+    background: #2e96ff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#2e96ff), to(#1c5cca));
+    background: -moz-linear-gradient(top, #2e96ff, #1c5cca);
+    background: linear-gradient(to bottom, #2e96ff, #1c5cca);
+    font: normal normal bold 60px arial;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 2px solid ##2373fc;
+    background: #37b4ff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#37b4ff), to(#226ef2));
+    background: -moz-linear-gradient(top, #37b4ff, #226ef2);
+    background: linear-gradient(to bottom, #37b4ff, #226ef2);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #1c5cca;
+    background: -webkit-gradient(linear, left top, left bottom, from(#1c5cca), to(#1c5cca));
+    background: -moz-linear-gradient(top, #1c5cca, #1c5cca);
+    background: linear-gradient(to bottom, #1c5cca, #1c5cca);
+}
+
+
+</style>
+<head>
+<body>
+    <h1 style="text-align: center; color:#7297FF">Shortcuts</h1>
+    <h2 style="text-align: left;">E27's shortcut store</h2>
+    <p>E27's shortcut store is THE place to discover, download and share shortcuts !</p>
+    <p><a class="button" href="https://routinehub.co/shortcut/5750" rel="noopener noreferrer" target="_blank">Download</a></p>
+    <h2>Ultimate Minecraft Shortcut</h2>
+    <p>UMS is the best Minecraft PE utility !</p>
+    <p><a class="button" href="https://routinehub.co/shortcut/5522" rel="noopener noreferrer" target="_blank">Download</a></p>
+
+<br />
+<p style="text-align: center;"><a style="color: #FFFFFF;" href="https://elio27.netlify.app">Go back to home menu</a></p>
+</body>
+<html>
