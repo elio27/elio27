@@ -1,0 +1,13 @@
+{
+    "name": "Test",
+    "url": "https://elio27.netlify.app/test.json",
+    "packages": {
+        
+"AuthyCut": {
+            "name": "AuthyCut",
+            "description": "<p style="text-align: center; font-size: 25pt;">Secure your app with 2FA</p>",
+            "url": "https://routinehub.co/shortcut/6111"
+        }
+
+    }
+}
