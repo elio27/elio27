@@ -1,20 +1,12 @@
 {
-    "reponame": "This Is A Test",
+    "reponame": "Elio's Sydia Repo",
     "url": "https://elio27.netlify.app",
     "packages": {
         
 "AuthyCut": {
             "name": "AuthyCut",
-            "description": "<p style="text-align: center; color: c4d67f;">A test</p>",
-            "version": "2,5",
+            "description": "<p style="text-align: center; font-size: 25pt;">Secure your app with 2FA</p>",
             "url": "https://routinehub.co/shortcut/6111"
-        }
-
-"JustSign-in": {
-            "name": "JustSign-in",
-            "description": "<p>Yolo this is an another test</p>",
-            "version": "2",
-            "url": "https://routinehub.co/shortcut/6063"
         }
 
     }
