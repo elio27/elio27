@@ -1,12 +1,20 @@
 {
-    "reponame": "Elio's Sydia Repo",
+    "reponame": "AuthyCut",
     "url": "https://elio27.netlify.app",
     "packages": {
         
 "AuthyCut": {
             "name": "AuthyCut",
-            "description": "<p style="text-align: center; font-size: 25pt;">Secure your app with 2FA</p>",
-            "url": "https://routinehub.co/shortcut/6111"
+            "description": "<!DOCTYPE html>
+<head>
+<title>AuthyCut</title>
+</head>
+<body>
+<h1 style="text-align: center">AuthyCut</h1>
+</body>
+</html>",
+            "version": "1",
+            "url": "https://routinehub.co/download/19494"
         }
 
     }
