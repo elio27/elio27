@@ -8,13 +8,6 @@ text-align: center;
 </style>
 </head>
 <body>
-<script>
-function Shrek(x) {
-if ("x"=="Shrek") {
-window.open("https://vignette.wikia.nocookie.net/shrek/images/9/98/Shrek.png/revision/latest?cb=20190530120013&path-prefix=fr");
-}
-}
-</script>
 <form>
 <p>
 <p>
@@ -24,8 +17,16 @@ Séléctionner la preuve :<br>
 <input type="file" name="datafile" size="40">
 </p>
 <div>
-<input onlick="Shrek("document.getElementById(id)")" type="submit" value="Envoyer la preuve">
+<input type="submit" value="Envoyer la preuve">
 </div>
 </form>
+
+<button onclick="show()">Click Me</button>
+<script>
+function show() {
+  alert("Hi there");
+}
+</script>
+
 </body>
 </html>
